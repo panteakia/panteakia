@@ -1,4 +1,4 @@
-### Hi there. I am Pantea 👋
+### About Me 👋
 
 <!--
 **panteakia/panteakia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
